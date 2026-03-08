@@ -38,7 +38,7 @@ func main() {
 
 ##### Output
 
-![Screenshot Output Unguided 1_1](https://github.com/HilkiaFA/main/modul1/Output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/HilkiaFA/main/Modul 2/Output/output-soal1.png)
 [penjelasan]
 
 ### 2. [Soal]
@@ -74,7 +74,7 @@ func main() {
 
 ##### Output
 
-![Screenshot Output Unguided 1_1](https://github.com/HilkiaFA/main/modul1/Output/output soal 2.png)
+![Screenshot Output Unguided 1_1](https://github.com/HilkiaFA/main/Modul 2/Output/output-soal2.png)
 [penjelasan]
 
 ### 3. [Soal]
@@ -119,7 +119,7 @@ func main() {
 
 ##### Output
 
-![Screenshot Output Unguided 1_1](https://github.com/HilkiaFA/main/modul1/Output/output-soal3.png)
+![Screenshot Output Unguided 1_1](https://github.com/HilkiaFA/main/Modul 2/Output/output-soal3.png)
 [penjelasan]
 
 Program di atas adalah program biaya pos untuk menghitung biaya pengiriman. Pertama tama
