@@ -40,6 +40,7 @@ func main() {
 
 ![Screenshot Output Unguided 1_1](Output/output-soal1.png)
 [penjelasan]
+Program di atas adalah program pemutar atau pemindah kata yang dimana berguna mengubah kata yang awalnya kata berada ditengah menjadi di pertama lalu kata terakhir berada di tengah dan kata pertama berubah posisi menjadi kata yang terakhir seperti contoh mengetikkan kata "aku mahasiswa baru" akan berubah menjadi "mahasiswa baru aku"
 
 ### 2. [Soal]
 
@@ -76,6 +77,7 @@ func main() {
 
 ![Screenshot Output Unguided 1_1](Output/output-soal2.png)
 [penjelasan]
+Program di atas adalah program mengecek susunan warna cairan pada gelas 1 sampai 4. dimana awal awal saya membuat variabel warna 1 samapai 4 dengan tipe data string.dan saya membuat varibale count yang diberi nilai 0 lalu melakukan perulangan 1 sampai 5 dan melakukan inputan warna 1 sampai warna 4 lalu di cek apakah warna sesuai dengan susunan nya jika tidak sesuai makan count akan nambbah 1 dan jika sesuai count tidak bertambah lalu di luar perulangan saya menggunakan kondisi jika count tidak 0 makan output berhasil : false dan jika count 0 maka outout berhasil : true.
 
 ### 3. [Soal]
 
